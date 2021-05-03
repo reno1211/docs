@@ -1,4 +1,4 @@
----
+ ---
 title: Signing up for GitHub
 intro: ''
 mapTopic: true
